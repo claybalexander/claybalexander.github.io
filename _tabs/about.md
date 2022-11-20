@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Who Am I?
+
+An experienced Tech Support Specialist and aspiring Data Analyst with a proven talent for efficiently solving problems and communicating technical concepts to non-technical audiences. 
+
+I am eager to use my advanced skills in Excel, Tableau, and SQL to create thoughtful visualizations from complex datasets and translate them into cost-effective solutions to improve business operations.
